@@ -1,2 +1,1 @@
-# binary_trees
-Repo for learning Binary Trees
+This is the README.md file for this repository
